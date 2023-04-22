@@ -4,7 +4,7 @@ I am Shijie Yuan who is now a Master student at Hunan University, Changsha, Chin
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenqing-2021&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqing-2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqing-2021&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **wenqing-2021/wenqing-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
