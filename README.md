@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, Nice to meet you! 👋
+
+I am Shijie Yuan who is now a Master student at Hunan University, Changsha, China. My research interst includes motion planning, safe reinforcement learning, and decision-making for autonomous driving. 
 
 <!--
 **wenqing-2021/wenqing-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
