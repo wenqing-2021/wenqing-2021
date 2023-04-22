@@ -7,7 +7,7 @@ My name is Shijie Yuan. I received the B.E. degree from the Faculty of Vehicle E
 
 ## ✨ Github Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenqing-2021&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqing-2021&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqing-2021&layout=default&hide_progress=false&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=wenqing-2021&left_color=green&right_color=red)
  
