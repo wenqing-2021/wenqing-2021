@@ -1,34 +1,24 @@
 <!--
- * @Author: wenqing-2021 1140349586@qq.com
+ * @Author: wenqing-2021 yuansj@hnu.edu.cn
  * @Date: 2023-04-23 09:25:47
- * @LastEditors: wenqing-2021 1140349586@qq.com
+ * @LastEditors: wenqing-2021 yuansj@hnu.edu.cn
  * @LastEditTime: 2023-04-23 09:54:55
  * @FilePath: /wenqing-2021/README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ * @Description: github profile setting
 -->
-# Hi, Nice to meet you! 👋
+# Hi, I am Yuan Shijie. Nice to meet you! 👋
 
 ## 😊 About me
-My name is Shijie Yuan. I received the B.E. degree from the Faculty of Vehicle Engineering and Mechanics, Dalian University of Technology, in 2021. I am now a master student in the College of Mechanical and Vehicle Engineering, Hunan University, Changsha, China. My research interests include motion planning, safe reinforcement learning, decision-making  for autonomous vehicles 🚗.
 - 📫 Email: yuansj@hnu.edu.cn
----
+- 🎓 Master student in Hunan University, Changsha, China. Received the B.E. degree from Dalian University of Technology, in 2021.
+- 🔥 Research interests: Motion Planning, Safe Reinforcement Learning, Decision Making for Autonomous Driving 🚗
+
 ## ✨ Github Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenqing-2021&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenqing-2021&layout=default&hide_progress=false&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
----
 ## 💻 Tools
- <img src="./icons/python.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/c++.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/vscode.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/pytorch.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/ubuntu.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/ros.png" width = "180" height = "70" alt="python" align=center />
- <img src="./icons/matlab.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/git.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/docker.png" width = "140" height = "70" alt="python" align=center />
- <img src="./icons/arduino.png" width = "70" height = "70" alt="python" align=center />
- <img src="./icons/carla.png" width = "70" height = "70" alt="python" align=center />
+<img src="./icons/python.png" width = "70" height = "70" alt="python"/><img src="./icons/c++.png" width = "70" height = "70" alt="python"/><img src="./icons/vscode.png" width = "70" height = "70" alt="python"/><img src="./icons/pytorch.png" width = "70" height = "70" alt="python"/><img src="./icons/ubuntu.png" width = "70" height = "70" alt="python"/><img src="./icons/ros.png" width = "180" height = "70" alt="python" /><img src="./icons/matlab.png" width = "70" height = "70" alt="python" /><img src="./icons/git.png" width = "70" height = "70" alt="python" /><img src="./icons/docker.png" width = "140" height = "70" alt="python" /><img src="./icons/arduino.png" width = "70" height = "70" alt="python"/><img src="./icons/carla.png" width = "70" height = "70" alt="python"/>
 
 ---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wenqing-2021&left_color=blue&right_color=red)
