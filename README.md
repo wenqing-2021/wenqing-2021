@@ -21,7 +21,7 @@
 <img src="./icons/python.png" width = "70" height = "70" alt="python"/><img src="./icons/c++.png" width = "70" height = "70" alt="python"/><img src="./icons/vscode.png" width = "70" height = "70" alt="python"/><img src="./icons/pytorch.png" width = "70" height = "70" alt="python"/><img src="./icons/ubuntu.png" width = "70" height = "70" alt="python"/><img src="./icons/ros.png" width = "180" height = "70" alt="python" /><img src="./icons/matlab.png" width = "70" height = "70" alt="python" /><img src="./icons/git.png" width = "70" height = "70" alt="python" /><img src="./icons/docker.png" width = "140" height = "70" alt="python" /><img src="./icons/arduino.png" width = "70" height = "70" alt="python"/><img src="./icons/carla.png" width = "70" height = "70" alt="python"/>
 
 ---
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wenqing-2021&left_color=blue&right_color=red)
+
 <!--
 **wenqing-2021/wenqing-2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
