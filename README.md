@@ -10,7 +10,7 @@
 
 ## 😊 About me
 - 📫 Email: yuansj@hnu.edu.cn
-- 🎓 Master student in Hunan University, Changsha, China. Received the B.E. degree from Dalian University of Technology, in 2021.
+- 🎓 I received the M.E. degree from Hunan University in 2024 and the B.E. degree from Dalian University of Technology, in 2021.
 - 🔥 Research interests: Motion Planning, Safe Reinforcement Learning, Decision Making for Autonomous Driving 🚗
 
 ---
