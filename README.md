@@ -6,7 +6,7 @@
  * @FilePath: /wenqing-2021/README.md
  * @Description: github profile setting
 -->
-# Hi, I am Yuan Shijie. Nice to meet you! 👋
+# Hi, I am Jay. Nice to meet you! 👋
 
 ## 😊 About me
 - 📫 Email: yuansj@hnu.edu.cn
